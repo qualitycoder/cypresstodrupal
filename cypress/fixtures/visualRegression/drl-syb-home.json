@@ -1,0 +1,14 @@
+{
+    "fid_home_desktop_1440": {
+        "url": "/",
+        "testName": "syb-home-desktop",
+        "widths": [1440],
+        "auth": false
+    },
+    "fid_home_mobile": {
+        "url": "/",
+        "testName": "syb-home-mobile",
+        "widths": [375],
+        "auth": false
+    }
+}

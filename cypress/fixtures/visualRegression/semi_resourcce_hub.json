@@ -1,0 +1,26 @@
+{
+    "resource_hub_1440": {
+        "url": "/semiconductor-resource-hub",
+        "testName": "Resource_hub_1440",
+        "widths": [1440],
+        "auth": false
+    },
+    "resource_hub_1220": {
+        "url": "/semiconductor-resource-hub",
+        "testName": "Resource_hub_1220",
+        "widths": [1220],
+        "auth": false
+    },
+    "resource_hub_992": {
+        "url": "/semiconductor-resource-hub",
+        "testName": "Resource_hub_992",
+        "widths": [992],
+        "auth": false
+    },
+    "resource_hub_390": {
+        "url": "/semiconductor-resource-hub",
+        "testName": "Resource_hub_390",
+        "widths": [390],
+        "auth": false
+    }
+}

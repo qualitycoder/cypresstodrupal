@@ -1,0 +1,92 @@
+{
+  "homepage": {
+    "url": "/",
+    "testName": "homepage",
+    "auth": false
+  },
+  "media": {
+    "url": "/media",
+    "testName": "media",
+    "auth": false
+  },
+  "about_us": {
+    "url": "/about-us",
+    "testName": "about_us",
+    "auth": false
+  },
+  "press_chapman_freeborn_and_maximus_air_team": {
+    "url": "/press/chapman-freeborn-and-maximus-air-team",
+    "testName": "press_chapman_freeborn_and_maximus_air_team",
+    "auth": false
+  },
+  "fleet_antonov_124_100": {
+    "url": "/fleet/antonov-124-100",
+    "testName": "fleet_antonov_124_100",
+    "auth": false
+  },
+  "get_quote": {
+    "url": "/get-quote",
+    "testName": "get_quote",
+    "auth": false
+  },
+  "contact_us": {
+    "url": "/contact-us",
+    "testName": "contact_us",
+    "auth": false
+  },
+  "media_gallery": {
+    "url": "/media/gallery",
+    "testName": "media_gallery",
+    "auth": false
+  },
+  "fleet_ilyushin_il_76": {
+    "url": "/fleet/ilyushin-il-76",
+    "testName": "fleet_ilyushin_il_76",
+    "auth": false
+  },
+  "charter": {
+    "url": "/charter",
+    "testName": "charter",
+    "auth": false
+  },
+  "press_momentum_supports_united_nations_air_cargo_lift_helicopter_transfers": {
+    "url": "/press/momentum-supports-united-nations-air-cargo-lift-helicopter-transfers",
+    "testName": "press_momentum_supports_united_nations_air_cargo_lift_helicopter_transfers",
+    "auth": false
+  },
+  "media_press": {
+    "url": "/media/press",
+    "testName": "media_press",
+    "auth": false
+  },
+  "media_downloads": {
+    "url": "/media/downloads",
+    "testName": "media_downloads",
+    "auth": false
+  },
+  "careers_antonov_ilyushin": {
+    "url": "/careers/antonov-ilyushin",
+    "testName": "careers_antonov_ilyushin",
+    "auth": false
+  },
+  "press_maximus_air_operates_relief_flights_barbados": {
+    "url": "/press/maximus-air-operates-relief-flights-barbados",
+    "testName": "press_maximus_air_operates_relief_flights_barbados",
+    "auth": false
+  },
+  "media_presentations": {
+    "url": "/media/presentations",
+    "testName": "media_presentations",
+    "auth": false
+  },
+  "freight": {
+    "url": "/freight",
+    "testName": "freight",
+    "auth": false
+  },
+  "node_343": {
+    "url": "/node/343",
+    "testName": "node_343",
+    "auth": false
+  }
+}

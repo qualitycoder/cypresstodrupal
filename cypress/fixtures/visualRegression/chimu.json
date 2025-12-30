@@ -1,0 +1,177 @@
+{
+  "homepage_en": {
+    "url": "/en",
+    "testName": "en_home",
+    "auth": false
+  },
+  "au": {
+    "url": "/en-au",
+    "testName": "au_home",
+    "auth": false
+  },
+  "peru": {
+    "url": "/en/peru",
+    "testName": "peru",
+    "auth": false
+  },
+  "about_meet_the_team": {
+    "url": "/en/about/meet-the-team",
+    "testName": "about_meet_the_team",
+    "auth": false
+  },
+  "gb": {
+    "url": "/en-gb",
+    "testName": "gb",
+    "auth": false
+  },
+  "chile": {
+    "url": "/en/chile",
+    "testName": "chile",
+    "auth": false
+  },
+  "antarctica_antarctic_peninsula": {
+    "url": "/en/antarctica/antarctic-peninsula",
+    "testName": "antarctica_antarctic_peninsula",
+    "auth": false
+  },
+  "patagonia": {
+    "url": "/en/patagonia",
+    "testName": "patagonia",
+    "auth": false
+  },
+  "contact_us": {
+    "url": "/en/contact-us",
+    "testName": "contact_us",
+    "auth": false
+  },
+  "spitsbergen": {
+    "url": "/en/spitsbergen",
+    "testName": "spitsbergen",
+    "auth": false
+  },
+  "galapagos_ships": {
+    "url": "/en/galapagos/ships",
+    "testName": "galapagos_ships",
+    "auth": false
+  },
+  "luxury_antarctica_cruises": {
+    "url": "/en/antarctica/luxury-antarctica-cruises",
+    "testName": "luxury_antarctica_cruises",
+    "auth": false
+  },
+  "east_antarctica": {
+    "url": "/en/east-antarctica",
+    "testName": "east_antarctica",
+    "auth": false
+  },
+  "greenland": {
+    "url": "/en/greenland",
+    "testName": "greenland",
+    "auth": false
+  },
+  "machu_picchu": {
+    "url": "/en/machu-picchu",
+    "testName": "machu_picchu",
+    "auth": false
+  },
+  "antarctica_ships": {
+    "url": "/en/antarctica/ships",
+    "testName": "antarctica_ships",
+    "auth": false
+  },
+  "antarctica_cruises": {
+    "url": "/en/antarctica-cruises",
+    "testName": "antarctica_cruises",
+    "auth": false
+  },
+  "brochures": {
+    "url": "/en/brochures",
+    "testName": "brochures",
+    "auth": false
+  },
+  "ecuador": {
+    "url": "/en/ecuador",
+    "testName": "ecuador",
+    "auth": false
+  },
+  "colombia": {
+    "url": "/en/colombia",
+    "testName": "colombia",
+    "auth": false
+  },
+  "bolivia": {
+    "url": "/en/bolivia",
+    "testName": "bolivia",
+    "auth": false
+  },
+  "subantarctic": {
+    "url": "/en/subantarctic",
+    "testName": "subantarctic",
+    "auth": false
+  },
+  "sale": {
+    "url": "/en/sale",
+    "testName": "sale",
+    "auth": false
+  },
+  "blog": {
+    "url": "/en/blog",
+    "testName": "blog",
+    "auth": false
+  },
+  "south_america": {
+    "url": "/en/south-america",
+    "testName": "south_america",
+    "auth": false
+  },
+  "central_america": {
+    "url": "/en/central-america",
+    "testName": "central_america",
+    "auth": false
+  },
+  "argentina": {
+    "url": "/en/argentina",
+    "testName": "argentina",
+    "auth": false
+  },
+  "terms_and_conditions": {
+    "url": "/en/terms-and-conditions",
+    "testName": "terms_and_conditions",
+    "auth": false
+  },
+  "canadian_arctic": {
+    "url": "/en/canadian-arctic",
+    "testName": "canadian_arctic",
+    "auth": false
+  },
+  "us": {
+    "url": "/en-us",
+    "testName": "us",
+    "auth": false
+  },
+  "arctic_cruises": {
+    "url": "/en/arctic-cruises",
+    "testName": "arctic_cruises",
+    "auth": false
+  },
+  "mexico": {
+    "url": "/en/mexico",
+    "testName": "mexico",
+    "auth": false
+  },
+  "amazon": {
+    "url": "/en/amazon",
+    "testName": "amazon",
+    "auth": false
+  },
+  "sitemap": {
+    "url": "/en/sitemap",
+    "testName": "sitemap",
+    "auth": false
+  },
+  "brazil": {
+    "url": "/en/brazil",
+    "testName": "brazil",
+    "auth": false
+  }
+}

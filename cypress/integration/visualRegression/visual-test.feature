@@ -1,11 +1,11 @@
-Feature: INX International - Redesign Visual Tests
+Feature: Visual Regression Test
 
-  @visual_existing
+  @visual_live
   Scenario: Compare existing live with dev
-    Given I load pages from fixture "inx_int_existing.json"
+    Given I load pages from fixture "chimu.json"
     When I capture Percy snapshots for each page
 
-  @visual_redesign
+  @visual_design
   Scenario: Compare Figma design with Dev
-    Given I load pages from fixture "inx_int_redesign.json"
+    Given I load pages from fixture "drl-syb-home.json"
     When I capture Percy snapshots for each page

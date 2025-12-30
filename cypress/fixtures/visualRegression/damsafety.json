@@ -1,0 +1,252 @@
+{
+  "home": {
+    "url": "/",
+    "testName": "home",
+    "auth": false
+  },
+  "resources_state_dam_safety_officials": {
+    "url": "/resources-state-dam-safety-officials",
+    "testName": "resources_state_dam_safety_officials",
+    "auth": false
+  },
+  "resource_center": {
+    "url": "/resource-center",
+    "testName": "resource_center",
+    "auth": false
+  },
+  "training_overview": {
+    "url": "/training-overview",
+    "testName": "training_overview",
+    "auth": false
+  },
+  "volunteer_opps": {
+    "url": "/VolunteerOpps",
+    "testName": "volunteer_opps",
+    "auth": false
+  },
+  "resources_students_faculty": {
+    "url": "/resources-students-faculty",
+    "testName": "resources_students_faculty",
+    "auth": false
+  },
+  "training_center": {
+    "url": "/training-center",
+    "testName": "training_center",
+    "auth": false
+  },
+  "levee_safety": {
+    "url": "/levee-safety",
+    "testName": "levee_safety",
+    "auth": false
+  },
+  "public_safety": {
+    "url": "/public-safety",
+    "testName": "public_safety",
+    "auth": false
+  },
+  "awards": {
+    "url": "/awards",
+    "testName": "awards",
+    "auth": false
+  },
+  "roadmap": {
+    "url": "/Roadmap",
+    "testName": "roadmap",
+    "auth": false
+  },
+  "members_logout": {
+    "url": "/members/logout",
+    "testName": "members_logout",
+    "auth": false
+  },
+  "legislative_advocacy": {
+    "url": "/legislative-advocacy",
+    "testName": "legislative_advocacy",
+    "auth": false
+  },
+  "ypmembership": {
+    "url": "/YPMembership",
+    "testName": "ypmembership",
+    "auth": false
+  },
+  "awareness_center": {
+    "url": "/awareness-center",
+    "testName": "awareness_center",
+    "auth": false
+  },
+  "regions": {
+    "url": "/regions",
+    "testName": "regions",
+    "auth": false
+  },
+  "article_go_big_campaign": {
+    "url": "/article/go-big-giving-tuesday-support-bigfoot-says-campaign-low-head-dam-safety",
+    "testName": "article_go_big_campaign",
+    "auth": false
+  },
+  "about_asdso": {
+    "url": "/about-ASDSO",
+    "testName": "about_asdso",
+    "auth": false
+  },
+  "history": {
+    "url": "/history",
+    "testName": "history",
+    "auth": false
+  },
+  "mission": {
+    "url": "/mission",
+    "testName": "mission",
+    "auth": false
+  },
+  "webinar_program_overview": {
+    "url": "/basic-page/webinar-program-overview",
+    "testName": "webinar_program_overview",
+    "auth": false
+  },
+  "dam_owners": {
+    "url": "/dam-owners",
+    "testName": "dam_owners",
+    "auth": false
+  },
+  "advertise": {
+    "url": "/advertise",
+    "testName": "advertise",
+    "auth": false
+  },
+  "peer_review_program": {
+    "url": "/resource-center/peer-review-program",
+    "testName": "peer_review_program",
+    "auth": false
+  },
+  "resource_search": {
+    "url": "/resource/search",
+    "testName": "resource_search",
+    "auth": false
+  },
+  "dams101": {
+    "url": "/dams101",
+    "testName": "dams101",
+    "auth": false
+  },
+  "donate": {
+    "url": "/donate",
+    "testName": "donate",
+    "auth": false
+  },
+  "training_calendar": {
+    "url": "/training-calendar",
+    "testName": "training_calendar",
+    "auth": false
+  },
+  "virtual_seminar_inspection_assessment_dams": {
+    "url": "/training-center/virtual-seminar/inspection-assessment-dams-0",
+    "testName": "virtual_seminar_inspection_assessment_dams",
+    "auth": false
+  },
+  "jds": {
+    "url": "/JDS",
+    "testName": "jds",
+    "auth": false
+  },
+  "states": {
+    "url": "/states",
+    "testName": "states",
+    "auth": false
+  },
+  "careers": {
+    "url": "/careers",
+    "testName": "careers",
+    "auth": false
+  },
+  "webinar_emergency_action_plans": {
+    "url": "/training-center/webinar/key-features-effective-emergency-action-plans-dams",
+    "testName": "webinar_emergency_action_plans",
+    "auth": false
+  },
+  "article_new_studies": {
+    "url": "/article/new-studies-published-asdsos-dam-failure-website",
+    "testName": "article_new_studies",
+    "auth": false
+  },
+  "member_center": {
+    "url": "/member-center",
+    "testName": "member_center",
+    "auth": false
+  },
+  "page_1": {
+    "url": "/?page=1",
+    "testName": "page_1",
+    "auth": false
+  },
+  "media_resources": {
+    "url": "/Media-Resources",
+    "testName": "media_resources",
+    "auth": false
+  },
+  "manuals_and_guidelines": {
+    "url": "/ManualsAndGuidelines",
+    "testName": "manuals_and_guidelines",
+    "auth": false
+  },
+  "conference_northeast_regional": {
+    "url": "/training-center/conference/northeast-regional-conference-0",
+    "testName": "conference_northeast_regional",
+    "auth": false
+  },
+  "asdso_resources": {
+    "url": "/resourcecenter/asdso-resources",
+    "testName": "asdso_resources",
+    "auth": false
+  },
+  "disclaimer": {
+    "url": "/disclaimer",
+    "testName": "disclaimer",
+    "auth": false
+  },
+  "staff": {
+    "url": "/staff",
+    "testName": "staff",
+    "auth": false
+  },
+  "webinar_precision_matters": {
+    "url": "/training-center/webinar/precision-matters-surveying-fundamentals-dam-safety",
+    "testName": "webinar_precision_matters",
+    "auth": false
+  },
+  "board_directors": {
+    "url": "/board-directors",
+    "testName": "board_directors",
+    "auth": false
+  },
+  "dam_safety_2025_demand": {
+    "url": "/basic-page/dam-safety-2025-demand",
+    "testName": "dam_safety_2025_demand",
+    "auth": false
+  },
+  "members_only_section": {
+    "url": "/basic-page/members-only-section",
+    "testName": "members_only_section",
+    "auth": false
+  },
+  "become_member": {
+    "url": "/basic-page/become-member",
+    "testName": "become_member",
+    "auth": false
+  },
+  "ds26": {
+    "url": "/DS26",
+    "testName": "ds26",
+    "auth": false
+  },
+  "article_student_opportunities_2026": {
+    "url": "/article/2026-student-opportunities-submission-window-open-student-paper-and-dam-model-competitions",
+    "testName": "article_student_opportunities_2026",
+    "auth": false
+  },
+  "incidents": {
+    "url": "/incidents",
+    "testName": "incidents",
+    "auth": false
+  }
+}
