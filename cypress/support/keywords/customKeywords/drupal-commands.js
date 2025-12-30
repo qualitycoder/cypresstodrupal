@@ -21,7 +21,7 @@ Cypress.Commands.add("loginForVisual", (username, password) => {
   cy.get(selectors.login_password_field).type(password, {
     force: true,
   });
-  cy.fillCaptcha();
+  // cy.fillCaptcha();
   cy.get(selectors.login_submit_button).should("be.visible").click();
 });
 
@@ -216,5 +216,50 @@ Cypress.Commands.add("validateSiteStatus", (type) => {
     } else {
       cy.log(`✅ No ${type} found`);
     }
+  });
+});
+
+Cypress.Commands.add("waitForFullLoad", () => {
+  // 1. Wait for document ready
+  cy.document().its("readyState").should("eq", "complete");
+
+  // 2. Wait for images to fully load
+  // cy.get("img").each(($img) => {
+  //   cy.wrap($img, { timeout: 10000 }).should(($i) => {
+  //     expect($i[0].complete).to.be.true;
+  //   });
+  // });
+
+  // 3. Wait for network to become idle
+  cy.window().then((win) => {
+    return new Cypress.Promise((resolve) => {
+      let requests = 0;
+      let timeoutId;
+
+      const done = () => {
+        clearTimeout(timeoutId);
+        timeoutId = setTimeout(() => {
+          if (requests === 0) resolve();
+        }, 1000);
+      };
+
+      const origOpen = win.XMLHttpRequest.prototype.open;
+      const origSend = win.XMLHttpRequest.prototype.send;
+
+      win.XMLHttpRequest.prototype.open = function () {
+        this.addEventListener("loadstart", () => {
+          requests++;
+        });
+        this.addEventListener("loadend", () => {
+          requests--;
+          done();
+        });
+        return origOpen.apply(this, arguments);
+      };
+
+      win.XMLHttpRequest.prototype.send = function () {
+        return origSend.apply(this, arguments);
+      };
+    });
   });
 });

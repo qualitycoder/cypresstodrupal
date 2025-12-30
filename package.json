@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "run:test:dev": "cross-env CYPRESS_username=<username> CYPRESS_password=<password> cypress open --env configFile=dev",
-    "run:live:baseline": "cross-env PERCY_BRANCH=live_site CYPRESS_username=<username> CYPRESS_password=<password> npx percy exec -- cypress run --env configFile=prod,TAGS='@visual_existing'",
-    "run:dev:vs:live": "cross-env PERCY_BRANCH=dev PERCY_TARGET_BRANCH=live_site CYPRESS_username=<username> CYPRESS_password=<password>  npx percy exec -- cypress run --env configFile=dev,TAGS='@visual_existing'",
+    "run:live:baseline": "cross-env PERCY_BRANCH=live_hpces CYPRESS_username=prasanna@specbee.com CYPRESS_password=<password> npx percy exec -- cypress run --env configFile=prod,TAGS='@visual_existing'",
+    "run:dev:vs:live": "cross-env PERCY_BRANCH=dev_hpces PERCY_TARGET_BRANCH=live_hpces CYPRESS_username=prasanna@specbee.com CYPRESS_password=<password>  npx percy exec -- cypress run --env configFile=dev,TAGS='@visual_existing'",
     "run:uat:vs:live": "cross-env PERCY_BRANCH=uat PERCY_TARGET_BRANCH=live_site CYPRESS_username=<username> CYPRESS_password=<password>  npx percy exec -- cypress run --env configFile=uat,TAGS='@visual_existing'",
     "run:dev:vs:uat": "cross-env PERCY_BRANCH=dev PERCY_TARGET_BRANCH=uat CYPRESS_username=<username> CYPRESS_password=<password>  npx percy exec -- cypress run --env configFile=dev,TAGS='@visual_existing'",
     "run:pr:branch:vs:uat/dev/live": "cross-env PERCY_TARGET_BRANCH=<uat/dev/live_site> CYPRESS_username=<username> CYPRESS_password=<password>  npx percy exec -- cypress run --env configFile=<Your local accessable file>,TAGS='@visual_existing'",
@@ -44,7 +44,8 @@
     "uuid": "^9.0.1"
   },
   "devDependencies": {
-    "@percy/cli": "^1.31.2",
-    "@percy/cypress": "^3.1.6"
+    "@percy/cli": "^1.31.5",
+    "@percy/cypress": "^3.1.7",
+    "baseline-browser-mapping": "^2.9.5"
   }
 }

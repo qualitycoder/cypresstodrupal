@@ -1,0 +1,97 @@
+{
+  "home": {
+    "url": "/",
+    "testName": "home",
+    "auth": false
+  },
+  "contact": {
+    "url": "/contact",
+    "testName": "contact",
+    "auth": false
+  },
+  "insights_delivery_managed_services": {
+    "url": "/insights-delivery-managed-services",
+    "testName": "insights_delivery_managed_services",
+    "auth": false
+  },
+  "quick_starts_products": {
+    "url": "/quick-starts-products",
+    "testName": "quick_starts_products",
+    "auth": false
+  },
+  "data_platform_enablement": {
+    "url": "/data-platform-enablement",
+    "testName": "data_platform_enablement",
+    "auth": false
+  },
+  "services": {
+    "url": "/services",
+    "testName": "services",
+    "auth": false
+  },
+  "ai_ml_solutions": {
+    "url": "/ai-ml-solutions",
+    "testName": "ai_ml_solutions",
+    "auth": false
+  },
+  "strategy_advisory": {
+    "url": "/strategy-advisory",
+    "testName": "strategy_advisory",
+    "auth": false
+  },
+  "docutrust_document_management_platform": {
+    "url": "/docutrust-AI-document-management-platform",
+    "testName": "docutrust_document_management_platform",
+    "auth": false
+  },
+  "trusearch": {
+    "url": "/trusearch",
+    "testName": "trusearch",
+    "auth": false
+  },
+  "career": {
+    "url": "/career",
+    "testName": "career",
+    "auth": false
+  },
+  "trusync_data_integration_framework": {
+    "url": "/trusync-data-integration-framework",
+    "testName": "trusync_data_integration_framework",
+    "auth": false
+  },
+  "trusense_ai_chatbot": {
+    "url": "/trusense-ai-chatbot",
+    "testName": "trusense_ai_chatbot",
+    "auth": false
+  },
+  "why_trumetric": {
+    "url": "/why-trumetric",
+    "testName": "why_trumetric",
+    "auth": false
+  },
+  "blog_why_business_strategy_needs_data_engineering": {
+    "url": "/blogs/why-business-strategy-needs-data-engineering",
+    "testName": "blog_why_business_strategy_needs_data_engineering",
+    "auth": false
+  },
+  "blog_llms_vs_slms_for_business": {
+    "url": "/blogs/ai-model-llms-vs-slms-for-business",
+    "testName": "blog_llms_vs_slms_for_business",
+    "auth": false
+  },
+  "blogs": {
+    "url": "/blogs",
+    "testName": "blogs",
+    "auth": false
+  },
+  "blog_rag_contextual_ai": {
+    "url": "/blogs/retrieval-augmented-generation-contextual-ai",
+    "testName": "blog_rag_contextual_ai",
+    "auth": false
+  },
+  "blog_chatbots_vs_ai_agents_vs_agentic_ai": {
+    "url": "/blogs/chatbots-vs-ai-agents-vs-agentic-ai",
+    "testName": "blog_chatbots_vs_ai_agents_vs_agentic_ai",
+    "auth": false
+  }
+}

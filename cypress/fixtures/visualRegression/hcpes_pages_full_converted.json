@@ -1,0 +1,57 @@
+{
+  "": {
+    "url": "/",
+    "testName": "",
+    "auth": false
+  },
+  "webinars": {
+    "url": "/webinars",
+    "testName": "webinars",
+    "auth": false
+  },
+  "user_login": {
+    "url": "/user-login",
+    "testName": "user_login",
+    "auth": false
+  },
+  "medenrich_pagina_principal": {
+    "url": "/medenrich-pagina-principal",
+    "testName": "medenrich_pagina_principal",
+    "auth": false
+  },
+  "video_maintenance_midostaurin_there_not_there": {
+    "url": "/video/maintenance-midostaurin-there-not-there",
+    "testName": "video_maintenance_midostaurin_there_not_there",
+    "auth": false
+  },
+  "contact_us": {
+    "url": "/contact-us",
+    "testName": "contact_us",
+    "auth": false
+  },
+  "medbytes": {
+    "url": "/medbytes",
+    "testName": "medbytes",
+    "auth": false
+  },
+  "acerca_de_medenrich": {
+    "url": "/acerca-de-medenrich",
+    "testName": "acerca_de_medenrich",
+    "auth": false
+  },
+  "treatment_category_oncology": {
+    "url": "/treatment-category/oncology",
+    "testName": "treatment_category_oncology",
+    "auth": false
+  },
+  "cortometrajes_de_video": {
+    "url": "/cortometrajes-de-video",
+    "testName": "cortometrajes_de_video",
+    "auth": false
+  },
+  "treatment_category_nasopharyngeal_carcinoma": {
+    "url": "/treatment-category/nasopharyngeal-carcinoma",
+    "testName": "treatment_category_nasopharyngeal_carcinoma",
+    "auth": false
+  }
+}

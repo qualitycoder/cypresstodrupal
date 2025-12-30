@@ -1,0 +1,473 @@
+{
+  "colombia": {
+    "url": "/",
+    "testName": "colombia",
+    "auth": true
+  },
+  "colombiaUserSignup": {
+    "url": "/user-signup",
+    "testName": "colombiaUserSignup",
+    "auth": false
+  },
+  "colombiaAcercaDeMedenrich": {
+    "url": "/acerca-de-medenrich",
+    "testName": "colombiaAcercaDeMedenrich",
+    "auth": true
+  },
+  "colombiaVideoExpertPerspectivePertinentClinicalChallengesMultipleMyeloma": {
+    "url": "/video/expert-perspective-pertinent-clinical-challenges-multiple-myeloma",
+    "testName": "colombiaVideoExpertPerspectivePertinentClinicalChallengesMultipleMyeloma",
+    "auth": true
+  },
+  "colombiaVideoExpertPerspectiveHowITreatMetastaticHer2PositiveBreastCancer": {
+    "url": "/video/expert-perspective-how-i-treat-metastatic-her2-positive-breast-cancer",
+    "testName": "colombiaVideoExpertPerspectiveHowITreatMetastaticHer2PositiveBreastCancer",
+    "auth": true
+  },
+  "colombiaVideoManagementInfectionsMultipleMyeloma": {
+    "url": "/video/management-infections-multiple-myeloma",
+    "testName": "colombiaVideoManagementInfectionsMultipleMyeloma",
+    "auth": true
+  },
+  "colombiaVideoAndrogenReceptorTargetedTherapiesPatientsCardiovascularCoMorbidities": {
+    "url": "/video/androgen-receptor-targeted-therapies-patients-cardiovascular-co-morbidities",
+    "testName": "colombiaVideoAndrogenReceptorTargetedTherapiesPatientsCardiovascularCoMorbidities",
+    "auth": true
+  },
+  "colombiaVideoGuidelinesUsingBispecificAntibodiesMultipleMyeloma": {
+    "url": "/video/guidelines-using-bispecific-antibodies-multiple-myeloma",
+    "testName": "colombiaVideoGuidelinesUsingBispecificAntibodiesMultipleMyeloma",
+    "auth": true
+  },
+  "colombiaVideoEsmo22ProstateCancerComprehensiveCoverage": {
+    "url": "/video/esmo-22-prostate-cancer-comprehensive-coverage",
+    "testName": "colombiaVideoEsmo22ProstateCancerComprehensiveCoverage",
+    "auth": true
+  },
+  "colombiaVideoEsr1MutationsAndImplicationTherapySelectionHrveHer2NegativeMbc": {
+    "url": "/video/esr1-mutations-and-implication-therapy-selection-hrve-her2-negative-mbc",
+    "testName": "colombiaVideoEsr1MutationsAndImplicationTherapySelectionHrveHer2NegativeMbc",
+    "auth": true
+  },
+  "colombiaVideoTreatmentSequencingIntegratingCdk46InhibitorsHormonalTherapyHrveHer2Negative": {
+    "url": "/video/treatment-sequencing-integrating-cdk4-6-inhibitors-hormonal-therapy-hrve-her2-negative",
+    "testName": "colombiaVideoTreatmentSequencingIntegratingCdk46InhibitorsHormonalTherapyHrveHer2Negative",
+    "auth": true
+  },
+  "colombiaVideoTumorInfiltratingLymphocytesPredictiveBiomarkerBreastCancer": {
+    "url": "/video/tumor-infiltrating-lymphocytes-predictive-biomarker-breast-cancer",
+    "testName": "colombiaVideoTumorInfiltratingLymphocytesPredictiveBiomarkerBreastCancer",
+    "auth": true
+  },
+  "colombiaVideoMaintenanceMidostaurinThereNotThere": {
+    "url": "/video/maintenance-midostaurin-there-not-there",
+    "testName": "colombiaVideoMaintenanceMidostaurinThereNotThere",
+    "auth": true
+  },
+  "colombiaVideoTreatingAmlPatientsExistingCoMorbidities": {
+    "url": "/video/treating-aml-patients-existing-co-morbidities",
+    "testName": "colombiaVideoTreatingAmlPatientsExistingCoMorbidities",
+    "auth": true
+  },
+  "colombiaVideoMrdDirectedMaintenanceTherapyMultipleMyeloma": {
+    "url": "/video/mrd-directed-maintenance-therapy-multiple-myeloma",
+    "testName": "colombiaVideoMrdDirectedMaintenanceTherapyMultipleMyeloma",
+    "auth": true
+  },
+
+  "colombiaVideoEsmo2022BreastCancerComprehensiveCoverage": {
+    "url": "/video/esmo-2022-breast-cancer-comprehensive-coverage",
+    "testName": "colombiaVideoEsmo2022BreastCancerComprehensiveCoverage",
+    "auth": true
+  },
+  "colombiaVideoManagementAdvancedProstateCancerMcrpc": {
+    "url": "/video/management-advanced-prostate-cancer-mcrpc",
+    "testName": "colombiaVideoManagementAdvancedProstateCancerMcrpc",
+    "auth": true
+  },
+  "colombiaVideoManagementAdvancedProstateCancerCurrentStateArtAndRapidlyEvolvingDiseaseParadigm": {
+    "url": "/video/management-advanced-prostate-cancer-current-state-art-and-rapidly-evolving-disease-paradigm",
+    "testName": "colombiaVideoManagementAdvancedProstateCancerCurrentStateArtAndRapidlyEvolvingDiseaseParadigm",
+    "auth": true
+  },
+  "colombiaVideoAbirateroneMetastaticCastrationSensitiveProstateCancer": {
+    "url": "/video/abiraterone-metastatic-castration-sensitive-prostate-cancer",
+    "testName": "colombiaVideoAbirateroneMetastaticCastrationSensitiveProstateCancer",
+    "auth": true
+  },
+  "colombiaVideoTreatmentIntensificationMetastaticCastrationSensitiveProstateCancer": {
+    "url": "/video/treatment-intensification-metastatic-castration-sensitive-prostate-cancer",
+    "testName": "colombiaVideoTreatmentIntensificationMetastaticCastrationSensitiveProstateCancer",
+    "auth": true
+  },
+  "colombiaVideoClinicalUtilityCirculatingTumorCellsProstateCancer": {
+    "url": "/video/clinical-utility-circulating-tumor-cells-prostate-cancer",
+    "testName": "colombiaVideoClinicalUtilityCirculatingTumorCellsProstateCancer",
+    "auth": true
+  },
+  "colombiaVideoExpertPerspectivePertinentClinicalScenariosMultipleMyeloma": {
+    "url": "/video/expert-perspective-pertinent-clinical-scenarios-multiple-myeloma",
+    "testName": "colombiaVideoExpertPerspectivePertinentClinicalScenariosMultipleMyeloma",
+    "auth": true
+  },
+  "colombiaVideoTipsUsingPomalidomideBasedRegimensMultipleMyeloma": {
+    "url": "/video/tips-using-pomalidomide-based-regimens-multiple-myeloma",
+    "testName": "colombiaVideoTipsUsingPomalidomideBasedRegimensMultipleMyeloma",
+    "auth": true
+  },
+  "colombiaVideoHowITreatRelapsedRefractoryMultipleMyeloma": {
+    "url": "/video/how-i-treat-relapsed-refractory-multiple-myeloma",
+    "testName": "colombiaVideoHowITreatRelapsedRefractoryMultipleMyeloma",
+    "auth": true
+  },
+  "colombiaVideoManagementAdvancedProstateCancerNmcrpc": {
+    "url": "/video/management-advanced-prostate-cancer-nmcrpc",
+    "testName": "colombiaVideoManagementAdvancedProstateCancerNmcrpc",
+    "auth": true
+  },
+  "colombiaVideoTreatmentIntensificationMetastaticHormoneSensitiveProstateCancerMhspcTimeNow": {
+    "url": "/video/treatment-intensification-metastatic-hormone-sensitive-prostate-cancer-mhspc-time-now",
+    "testName": "colombiaVideoTreatmentIntensificationMetastaticHormoneSensitiveProstateCancerMhspcTimeNow",
+    "auth": true
+  },
+  "colombiaVideoNavigatingEvolvingTherapeuticLandscapeHrHer2VeAdvancedBreastCancer": {
+    "url": "/video/navigating-evolving-therapeutic-landscape-hr-her2-ve-advanced-breast-cancer",
+    "testName": "colombiaVideoNavigatingEvolvingTherapeuticLandscapeHrHer2VeAdvancedBreastCancer",
+    "auth": true
+  },
+  "colombiaVideoMrdAssesmentMultipleMyelomaReadyPrimeTime": {
+    "url": "/video/mrd-assesment-multiple-myeloma-ready-prime-time",
+    "testName": "colombiaVideoMrdAssesmentMultipleMyelomaReadyPrimeTime",
+    "auth": true
+  },
+  "colombiaVideoBiosimilaresYSistemasDeSaludUnExamenCriticoDelAcceso": {
+    "url": "/video/biosimilares-y-sistemas-de-salud-un-examen-critico-del-acceso",
+    "testName": "colombiaVideoBiosimilaresYSistemasDeSaludUnExamenCriticoDelAcceso",
+    "auth": true
+  },
+  "colombiaVideoSabcsUpdate2022": {
+    "url": "/video/sabcs-update-2022",
+    "testName": "colombiaVideoSabcsUpdate2022",
+    "auth": true
+  },
+  "colombiaVideoIntegratingParpInhibitorsTreatmentProstateCancer": {
+    "url": "/video/integrating-parp-inhibitors-treatment-prostate-cancer",
+    "testName": "colombiaVideoIntegratingParpInhibitorsTreatmentProstateCancer",
+    "auth": true
+  },
+  "colombiaVideoBestPracticesSideEffectManagementAndPatientMonitoringPalbociclib": {
+    "url": "/video/best-practices-side-effect-management-and-patient-monitoring-palbociclib",
+    "testName": "colombiaVideoBestPracticesSideEffectManagementAndPatientMonitoringPalbociclib",
+    "auth": true
+  },
+  "colombiaVideoUnderstandingHer2LowBreastCancerEntityTreatmentStrategy": {
+    "url": "/video/understanding-her-2-low-breast-cancer-entity-treatment-strategy",
+    "testName": "colombiaVideoUnderstandingHer2LowBreastCancerEntityTreatmentStrategy",
+    "auth": true
+  },
+  "colombiaVideoVrdVsVcdRegimenRealWorldClinicalPractice": {
+    "url": "/video/vrd-vs-vcd-regimen-real-world-clinical-practice",
+    "testName": "colombiaVideoVrdVsVcdRegimenRealWorldClinicalPractice",
+    "auth": true
+  },
+  "colombiaVideoImmunotherapyMetastaticBreastCancer": {
+    "url": "/video/immunotherapy-metastatic-breast-cancer",
+    "testName": "colombiaVideoImmunotherapyMetastaticBreastCancer",
+    "auth": true
+  },
+  "colombiaVideoCirculatingTumorDnaAdvancedProstateCancer": {
+    "url": "/video/circulating-tumor-dna-advanced-prostate-cancer",
+    "testName": "colombiaVideoCirculatingTumorDnaAdvancedProstateCancer",
+    "auth": true
+  },
+  "colombiaVideoMeetExpertMetastaticBreastCancer": {
+    "url": "/video/meet-expert-metastatic-breast-cancer",
+    "testName": "colombiaVideoMeetExpertMetastaticBreastCancer",
+    "auth": true
+  },
+  "colombiaVideoUniqueClinicalTrialsHrveHer2NegativeMbc": {
+    "url": "/video/unique-clinical-trials-hrve-her2-negative-mbc",
+    "testName": "colombiaVideoUniqueClinicalTrialsHrveHer2NegativeMbc",
+    "auth": true
+  },
+  "colombiaVideoManagementAdvancedProstateCancerMhspc": {
+    "url": "/video/management-advanced-prostate-cancer-mhspc",
+    "testName": "colombiaVideoManagementAdvancedProstateCancerMhspc",
+    "auth": true
+  },
+  "colombiaVideoOptimizingTreatmentFrontlineAmlReviewClinicalEvidence": {
+    "url": "/video/optimizing-treatment-frontline-aml-review-clinical-evidence",
+    "testName": "colombiaVideoOptimizingTreatmentFrontlineAmlReviewClinicalEvidence",
+    "auth": true
+  },
+  "colombiaVideoDecodificacionDeBiosimilaresLaPerspectivaDeLasAutoridadesRegulares": {
+    "url": "/video/decodificacion-de-biosimilares-la-perspectiva-de-las-autoridades-regulares",
+    "testName": "colombiaVideoDecodificacionDeBiosimilaresLaPerspectivaDeLasAutoridadesRegulares",
+    "auth": true
+  },
+  "colombiaMedslidesLanding": {
+    "url": "/medslides-landing",
+    "testName": "colombiaMedslidesLanding",
+    "auth": true
+  },
+  "colombiaVideoImmunotherapyEarlyBreastCancer": {
+    "url": "/video/immunotherapy-early-breast-cancer",
+    "testName": "colombiaVideoImmunotherapyEarlyBreastCancer",
+    "auth": true
+  },
+  "colombiaVideoIntercambioBiosimilaresUnaPracticaSegura": {
+    "url": "/video/intercambio-biosimilares-una-practica-segura",
+    "testName": "colombiaVideoIntercambioBiosimilaresUnaPracticaSegura",
+    "auth": true
+  },
+  "colombiaVideoManagingSideEffectsImmunotherapiesMultipleMyeloma": {
+    "url": "/video/managing-side-effects-immunotherapies-multiple-myeloma",
+    "testName": "colombiaVideoManagingSideEffectsImmunotherapiesMultipleMyeloma",
+    "auth": true
+  },
+  "colombiaContactUs": {
+    "url": "/contact-us",
+    "testName": "colombiaContactUs",
+    "auth": true
+  },
+  "colombiaVideoIntegratingPomalidomideBasedRegimensMultipleMyeloma": {
+    "url": "/video/integrating-pomalidomide-based-regimens-multiple-myeloma",
+    "testName": "colombiaVideoIntegratingPomalidomideBasedRegimensMultipleMyeloma",
+    "auth": true
+  },
+  "colombiaWebinars": {
+    "url": "/webinars",
+    "testName": "colombiaWebinars",
+    "auth": true
+  },
+  "colombiaVideoManagingNonmetastaticCastrationResistantProstateCancerNmcrpc": {
+    "url": "/video/managing-nonmetastatic-castration-resistant-prostate-cancer-nmcrpc",
+    "testName": "colombiaVideoManagingNonmetastaticCastrationResistantProstateCancerNmcrpc",
+    "auth": true
+  },
+  "colombiaVideo": {
+    "url": "/video",
+    "testName": "colombiaVideo",
+    "auth": true
+  },
+  "colombiaVideoRoleGeriatricAssessmentProstateCancer": {
+    "url": "/video/role-geriatric-assessment-prostate-cancer",
+    "testName": "colombiaVideoRoleGeriatricAssessmentProstateCancer",
+    "auth": true
+  },
+  "colombiaVideoSelectingAppropriateTreatmentGeriatricProstateCancerPatients": {
+    "url": "/video/selecting-appropriate-treatment-geriatric-prostate-cancer-patients",
+    "testName": "colombiaVideoSelectingAppropriateTreatmentGeriatricProstateCancerPatients",
+    "auth": true
+  },
+  "colombiaUserSignupDestinationColombiaMedenrichPaginaPrincipal": {
+    "url": "/user-signup?destination=/medenrich-pagina-principal",
+    "testName": "colombiaUserSignupDestinationColombiaMedenrichPaginaPrincipal",
+    "auth": true
+  },
+  "colombiaUserLoginDestinationColombiaMedenrichPaginaPrincipal": {
+    "url": "/user-login?destination=/medenrich-pagina-principal",
+    "testName": "colombiaUserLoginDestinationColombiaMedenrichPaginaPrincipal",
+    "auth": true
+  },
+  "colombiaVideoBoneTargetedTreatmentsMultipleMyeloma202403VdEmMmy07": {
+    "url": "/video/bone-targeted-treatments-multiple-myeloma-2024-03-vd-em-mmy-07",
+    "testName": "colombiaVideoBoneTargetedTreatmentsMultipleMyeloma202403VdEmMmy07",
+    "auth": true
+  },
+  "colombiaVideoOutcomePalbociclibBasedCombinationTherapyVsEndocrineMonotherapyRealWorldSetting": {
+    "url": "/video/outcome-palbociclib-based-combination-therapy-vs-endocrine-monotherapy-real-world-setting",
+    "testName": "colombiaVideoOutcomePalbociclibBasedCombinationTherapyVsEndocrineMonotherapyRealWorldSetting",
+    "auth": true
+  },
+  "colombiaTerminosDeUso": {
+    "url": "/terminos-de-uso",
+    "testName": "colombiaTerminosDeUso",
+    "auth": true
+  },
+  "colombiaPageUrlMedenrichPaginaPrincipalPlatformDocreel": {
+    "url": "?page_url=/medenrich-pagina-principal&platform=docreel",
+    "testName": "colombiaPageUrlMedenrichPaginaPrincipalPlatformDocreel",
+    "auth": true
+  },
+  "colombiaVideoToripalimabMetastaticOrRecurrentNasopharyngealCarcinoma": {
+    "url": "/video/toripalimab-metastatic-or-recurrent-nasopharyngeal-carcinoma",
+    "testName": "colombiaVideoToripalimabMetastaticOrRecurrentNasopharyngealCarcinoma",
+    "auth": true
+  },
+  "colombiaVideoPracticalApproachUsingIronChelationTherapyMds": {
+    "url": "/video/practical-approach-using-iron-chelation-therapy-mds",
+    "testName": "colombiaVideoPracticalApproachUsingIronChelationTherapyMds",
+    "auth": true
+  },
+  "colombiaVideoKeyPracticePointsMyelomaRelatedRenalImpairment": {
+    "url": "/video/key-practice-points-myeloma-related-renal-impairment",
+    "testName": "colombiaVideoKeyPracticePointsMyelomaRelatedRenalImpairment",
+    "auth": true
+  },
+  "colombiaPoliticaDeCookies": {
+    "url": "/politica-de-cookies",
+    "testName": "colombiaPoliticaDeCookies",
+    "auth": true
+  },
+  "colombiaVideoTipsOptimisingLongTermLenalidomideMaintenanceMultipleMyeloma": {
+    "url": "/video/tips-optimising-long-term-lenalidomide-maintenance-multiple-myeloma",
+    "testName": "colombiaVideoTipsOptimisingLongTermLenalidomideMaintenanceMultipleMyeloma",
+    "auth": true
+  },
+  "colombiaPoliticaDePrivacidad": {
+    "url": "/politica-de-privacidad",
+    "testName": "colombiaPoliticaDePrivacidad",
+    "auth": true
+  },
+  "colombiaVideoUsingBoneTargetedTherapySpecialSituationsMultipleMyeloma": {
+    "url": "/video/using-bone-targeted-therapy-special-situations-multiple-myeloma",
+    "testName": "colombiaVideoUsingBoneTargetedTherapySpecialSituationsMultipleMyeloma",
+    "auth": true
+  },
+  "colombiaVideoImmunotherapyBreastCancerWhereAreWe": {
+    "url": "/video/immunotherapy-breast-cancer-where-are-we",
+    "testName": "colombiaVideoImmunotherapyBreastCancerWhereAreWe",
+    "auth": true
+  },
+  "colombiaVideoComprehensiveOverviewNasopharyngealCarcinoma": {
+    "url": "/video/comprehensive-overview-nasopharyngeal-carcinoma",
+    "testName": "colombiaVideoComprehensiveOverviewNasopharyngealCarcinoma",
+    "auth": true
+  },
+  "colombiaVideoRecommendationsManagementMyelomaRelatedRenalImpairment": {
+    "url": "/video/recommendations-management-myeloma-related-renal-impairment",
+    "testName": "colombiaVideoRecommendationsManagementMyelomaRelatedRenalImpairment",
+    "auth": true
+  },
+  "colombiaMedenrichPaginaPrincipal": {
+    "url": "/medenrich-pagina-principal",
+    "testName": "colombiaMedenrichPaginaPrincipal",
+    "auth": true
+  },
+  "colombiaMedbytes": {
+    "url": "/medbytes",
+    "testName": "colombiaMedbytes",
+    "auth": true
+  },
+  "colombiaCortometrajesDeVideo": {
+    "url": "/cortometrajes-de-video",
+    "testName": "colombiaCortometrajesDeVideo",
+    "auth": true
+  },
+  "colombiaMedbytesBortezomibLenalidomidaDexametasonaEsEficazEnElMielomaMultipleNoTratado": {
+    "url": "/medbytes/bortezomib-lenalidomida-dexametasona-es-eficaz-en-el-mieloma-multiple-no-tratado",
+    "testName": "colombiaMedbytesBortezomibLenalidomidaDexametasonaEsEficazEnElMielomaMultipleNoTratado",
+    "auth": true
+  },
+  "colombiaMedbytesPronosticoDeLaEnfermedadYDecisionesClinicasUtilizandoElAdnTumoralCirculanteEn": {
+    "url": "/medbytes/pronostico-de-la-enfermedad-y-decisiones-clinicas-utilizando-el-adn-tumoral-circulante-en",
+    "testName": "colombiaMedbytesPronosticoDeLaEnfermedadYDecisionesClinicasUtilizandoElAdnTumoralCirculanteEn",
+    "auth": true
+  },
+  "colombiaMedbytesGuiaActualizadaDeLaNccnParaLaDeteccionDelCancerDeMamaYLaMamografia": {
+    "url": "/medbytes/guia-actualizada-de-la-nccn-para-la-deteccion-del-cancer-de-mama-y-la-mamografia",
+    "testName": "colombiaMedbytesGuiaActualizadaDeLaNccnParaLaDeteccionDelCancerDeMamaYLaMamografia",
+    "auth": true
+  },
+  "colombiaMedbytesFactoresDeRiesgoModificablesResponsablesDeLaIncidenciaMundialDelCancerUn": {
+    "url": "/medbytes/factores-de-riesgo-modificables-responsables-de-la-incidencia-mundial-del-cancer-un",
+    "testName": "colombiaMedbytesFactoresDeRiesgoModificablesResponsablesDeLaIncidenciaMundialDelCancerUn",
+    "auth": true
+  },
+  "colombiaMedbytesElAnalisisAmpliadoDe6AnosDelEnsayoClinicoStampedeConfirmaLaMejoraDeLa": {
+    "url": "/medbytes/el-analisis-ampliado-de-6-anos-del-ensayo-clinico-stampede_confirma-la-mejora-de-la",
+    "testName": "colombiaMedbytesElAnalisisAmpliadoDe6AnosDelEnsayoClinicoStampedeConfirmaLaMejoraDeLa",
+    "auth": true
+  },
+  "colombiaMedbytesEsperarQueAparezcanLosSintomasUrinariosParaVisitarAlMedicoPuedeRetrasarLa": {
+    "url": "/medbytes/esperar-que-aparezcan-los-sintomas-urinarios-para-visitar-al-medico-puede-retrasar-la",
+    "testName": "colombiaMedbytesEsperarQueAparezcanLosSintomasUrinariosParaVisitarAlMedicoPuedeRetrasarLa",
+    "auth": true
+  },
+  "colombiaMedbytesTodosLosPacientesIndependientementeDelNivelDeIngresosDelPaisDebenTenerAcceso": {
+    "url": "/medbytes/todos-los-pacientes-independientemente-del-nivel-de-ingresos-del-pais-deben-tener-acceso",
+    "testName": "colombiaMedbytesTodosLosPacientesIndependientementeDelNivelDeIngresosDelPaisDebenTenerAcceso",
+    "auth": true
+  },
+  "colombiaMedbytesModificarElEstiloDeVidaParaMejorarLaSupervivenciaAlCancerDeMama": {
+    "url": "/medbytes/modificar-el-estilo-de-vida-para-mejorar-la-supervivencia-al-cancer-de-mama",
+    "testName": "colombiaMedbytesModificarElEstiloDeVidaParaMejorarLaSupervivenciaAlCancerDeMama",
+    "auth": true
+  },
+  "colombiaWebinarsTailoringFirstLineTherapyDiffuseLargeBCellLymphoma": {
+    "url": "/webinars/tailoring-first-line-therapy-diffuse-large-b-cell-lymphoma",
+    "testName": "colombiaWebinarsTailoringFirstLineTherapyDiffuseLargeBCellLymphoma",
+    "auth": true
+  },
+  "colombiaWebinarsAbc6GuidelinesOverviewPart1": {
+    "url": "/webinars/abc-6-guidelines-overview-part-1",
+    "testName": "colombiaWebinarsAbc6GuidelinesOverviewPart1",
+    "auth": true
+  },
+  "colombiaMedbytesElTratamientoDeMantenimientoConLenalidomidaMejoroLaSupervivenciaSinProgresionEn": {
+    "url": "/medbytes/el-tratamiento-de-mantenimiento-con-lenalidomida-mejoro-la-supervivencia-sin-progresion-en",
+    "testName": "colombiaMedbytesElTratamientoDeMantenimientoConLenalidomidaMejoroLaSupervivenciaSinProgresionEn",
+    "auth": true
+  },
+  "colombiaMedbytesRefuerceSuTratamientoContraElCancerConEjercicioEIntervencionesNutricionales": {
+    "url": "/medbytes/refuerce-su-tratamiento-contra-el-cancer-con-ejercicio-e-intervenciones-nutricionales",
+    "testName": "colombiaMedbytesRefuerceSuTratamientoContraElCancerConEjercicioEIntervencionesNutricionales",
+    "auth": true
+  },
+  "colombiaWebinarsAbc6GuidelinesOverviewPart2": {
+    "url": "/webinars/abc-6-guidelines-overview-part-2",
+    "testName": "colombiaWebinarsAbc6GuidelinesOverviewPart2",
+    "auth": true
+  },
+  "colombiaWebinarsSabcs2021TopAbstractsSanAntonioBreastCancerConference": {
+    "url": "/webinars/sabcs-2021-top-abstracts-san-antonio-breast-cancer-conference",
+    "testName": "colombiaWebinarsSabcs2021TopAbstractsSanAntonioBreastCancerConference",
+    "auth": true
+  },
+  "colombiaWebinarsMetastaticProstateCancerStandardCare2022": {
+    "url": "/webinars/metastatic-prostate-cancer-standard-care-2022",
+    "testName": "colombiaWebinarsMetastaticProstateCancerStandardCare2022",
+    "auth": true
+  },
+  "colombiaTreatmentCategoryMyelodysplasticSyndromes": {
+    "url": "/treatment-category/myelodysplastic-syndromes",
+    "testName": "colombiaTreatmentCategoryMyelodysplasticSyndromes",
+    "auth": true
+  },
+  "colombiaTreatmentCategoryProstateCancer": {
+    "url": "/treatment-category/prostate-cancer",
+    "testName": "colombiaTreatmentCategoryProstateCancer",
+    "auth": true
+  },
+  "colombiaTreatmentCategoryOncospecials": {
+    "url": "/treatment-category/oncospecials",
+    "testName": "colombiaTreatmentCategoryOncospecials",
+    "auth": true
+  },
+  "colombiaTreatmentCategoryMultipleMyeloma": {
+    "url": "/treatment-category/multiple-myeloma",
+    "testName": "colombiaTreatmentCategoryMultipleMyeloma",
+    "auth": true
+  },
+  "colombiaTreatmentCategoryNasopharyngealCarcinoma": {
+    "url": "/treatment-category/nasopharyngeal-carcinoma",
+    "testName": "colombiaTreatmentCategoryNasopharyngealCarcinoma",
+    "auth": true
+  },
+  "colombiaTreatmentCategoryPharmacy": {
+    "url": "/treatment-category/pharmacy",
+    "testName": "colombiaTreatmentCategoryPharmacy",
+    "auth": true
+  },
+  "colombiaTreatmentCategoryBreastCancer": {
+    "url": "/treatment-category/breast-cancer",
+    "testName": "colombiaTreatmentCategoryBreastCancer",
+    "auth": true
+  },
+  "colombiaTreatmentCategoryOncology": {
+    "url": "/treatment-category/oncology",
+    "testName": "colombiaTreatmentCategoryOncology",
+    "auth": true
+  }
+}

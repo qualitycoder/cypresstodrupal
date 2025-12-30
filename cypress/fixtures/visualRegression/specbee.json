@@ -1,0 +1,12 @@
+{
+  "home": {
+    "url": "/",
+    "testName": "home",
+    "auth": false
+  },
+  "work_aster": {
+    "url": "/work/aster",
+    "testName": "work_aster",
+    "auth": false
+  }
+}

@@ -35,15 +35,17 @@ When("I capture Percy snapshots for each page", () => {
     }
 
     cy.log(`Visiting ${url} → snapshot: ${snapName}`);
-    cy.visit(url, { failOnStatusCode: false });
-
-    cy.wait(500);
+    cy.visit(url, { failOnStatusCode: false, timeout: 60000})
+    cy.scrollToBottom();
     cy.percySnapshot(snapName, {
-      widths: page.widths > 0 ? page.widths : [357,768,1440],
+      widths: page.widths > 0 ? page.widths : [357, 768, 1440],
       minHeight: 900,
       percyCSS: `
         #CybotCookiebotDialog { display: none !important; }
         #sliding-popup { display: none !important; }
+        .ui-dialog { display: none !important; }
+        .cc-banner { display: none !important; }
+        .toggle-popup { display: none !important; }
       `,
     });
   });
